@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\ColorTheme\bin\Debug\ColorTheme.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\ColorTheme\bin\Debug\ColorTheme.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\ColorTheme\bin\Debug\ColorTheme.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\ColorTheme\obj\Debug\ColorTheme.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\ColorTheme\obj\Debug\ColorTheme.Form1.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\ColorTheme\obj\Debug\ColorTheme.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\ColorTheme\obj\Debug\ColorTheme.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\ColorTheme\obj\Debug\ColorTheme.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\ColorTheme\obj\Debug\ColorTheme.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\ColorTheme\obj\Debug\ColorTheme.pdb
